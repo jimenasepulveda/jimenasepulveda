@@ -9,4 +9,4 @@
 
 ![logo](https://firebasestorage.googleapis.com/v0/b/portafoliojsg.appspot.com/o/tarjeta2.png?alt=media&token=7806bafe-84b5-4ac2-8854-c388dac3a688)
 
-Mi nombre es Jimena Sepúlveda Garcia, soy aprendiz en Desarrollo de Software, cuento con habilidades en lenguajes de programación como Java, Python, JavaScript, html, css, bases de datos. A partir de mi personalidad y motivacion de aprender, estoy en total capacidad para desempeñar cualquier actidad que se me sea asignada, en pro de seguir aprendiendo y fortalecer mis competencias personales paraprogresar cada dia mas.
+Mi nombre es Jimena Sepúlveda Garcia, soy aprendiz en Desarrollo de Software, cuento con habilidades en lenguajes de programación como Java, Python, JavaScript, html, css, bases de datos. A partir de mi personalidad y motivacion de aprender, estoy en total capacidad para desempeñar cualquier actividad que se me sea asignada, en pro de seguir aprendiendo y fortalecer mis competencias personales para progresar cada dia mas.
